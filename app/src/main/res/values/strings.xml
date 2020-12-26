@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Where is Cage?</string>
+    <string name="normal_game">Normal Game</string>
+    <string name="chrono1">Chrono mode 1</string>
+    <string name="chrono2">Chrono mode 2</string>
+    <string name="select_game">Select a game mode:</string>
+    <string name="welcome">Welcome to \"Where is cage?\" game!</string>
+    <string name="textTimer">Timer:</string>
+    <string name="imgALT">Find Cage!</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="chooseDifficulty">Choose Difficulty:</string>
+    <string name="normal_game2">Normal Game - Medium</string>
+    <string name="normal_game3">Normal Game - Hard</string>
+    <string name="normal_game1">Normal Game - Easy</string>
+    <string name="player_name">Player</string>
+    <string name="score">Score</string>
+    <string name="hall_fame">Hall of Fame</string>
+    <string name="addRecord">Add your record into the Hall of Fame!</string>
+    <string name="addName">Name</string>
+    <string name="btnAddRecord">Add</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dov\'è Cage?</string>
+    <string name="normal_game">Partita normale</string>
+    <string name="chrono1">Modalità Chrono 1</string>
+    <string name="chrono2">Modalità Chrono 2</string>
+    <string name="select_game">Seleziona una modalità di gioco</string>
+    <string name="welcome">Benvenuto su \"Dov\'è Cage?\"!</string>
+    <string name="textTimer">Tempo:</string>
+    <string name="imgALT">Trova Cage!</string>
+    <string name="easy">Facile</string>
+    <string name="medium">Intermedio</string>
+    <string name="hard">Difficile</string>
+    <string name="chooseDifficulty">Scegli difficoltà:</string>
+    <string name="normal_game2">Partita normale - Intermedio</string>
+    <string name="normal_game3">Partita normale - Difficile</string>
+    <string name="normal_game1">Partita normale - Facile</string>
+    <string name="player_name">Giocatore:</string>
+    <string name="score">Punteggio</string>
+    <string name="hall_fame">Classifica</string>
+    <string name="addRecord">Aggiungi il tuo record alla Classifica!</string>
+    <string name="addName">Nome</string>
+    <string name="btnAddRecord">Aggiungi</string>
+</resources>
